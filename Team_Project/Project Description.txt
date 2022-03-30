@@ -1,0 +1,13 @@
+Scenario:
+The Department’s goal for the transition to managed care is to improve the health of North Carolinians through 
+an integrated and well-coordinated system of care that addresses both medical and nonmedical drivers of health. 
+In a significant change from today’s structure, both Standard Plans and BH I/DD Tailored Plans will be fully integrated managed 
+care plans with a benefits package that spans both physical and behavioral health services, as well as long-term services and supports (LTSS) and pharmacy benefits
+
+Task:
+- Compare three different database products and find the best option fitting the requirements
+- Include assumptions, comparison criteria, and arrival at solution
+
+Criteria
+- Patient 
+- Easily updatable and transferable
