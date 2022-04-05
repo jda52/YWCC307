@@ -1,0 +1,14 @@
+Oracle Websites:
+https://theninehertz.com/blog/advantages-of-using-oracle-database
+https://www.cherryroad.com/2021/10/22/oracle-database-cloud/
+
+MySQL Websites:
+https://www.datamation.com/storage/8-major-advantages-of-using-mysql/
+https://www.jobsity.com/blog/5-reasons-why-mysql-is-still-the-go-to-database-management-system
+
+Microsoft SQL:
+https://www.rothmobot.com/the-advantages-and-disadvantages-of-microsoft-sql-server/
+https://bytescout.com/blog/2014/09/ms-sql-server-history-and-advantages.html
+
+All:
+https://www.keycdn.com/blog/popular-databases
