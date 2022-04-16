@@ -5,6 +5,7 @@ https://www.cherryroad.com/2021/10/22/oracle-database-cloud/
 MySQL Websites:
 https://www.datamation.com/storage/8-major-advantages-of-using-mysql/
 https://www.jobsity.com/blog/5-reasons-why-mysql-is-still-the-go-to-database-management-system
+https://www.techstrikers.com/MySQL/advantages-and-disadvantages-of-mysql.php
 
 Microsoft SQL:
 https://www.rothmobot.com/the-advantages-and-disadvantages-of-microsoft-sql-server/
@@ -12,3 +13,6 @@ https://bytescout.com/blog/2014/09/ms-sql-server-history-and-advantages.html
 
 All:
 https://www.keycdn.com/blog/popular-databases
+
+Healtcare database:
+https://www.dnsstuff.com/how-important-database-healthcare#what-kind-of-database-is-used-in-healthcare
