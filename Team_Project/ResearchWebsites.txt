@@ -16,3 +16,6 @@ https://www.keycdn.com/blog/popular-databases
 
 Healtcare database:
 https://www.dnsstuff.com/how-important-database-healthcare#what-kind-of-database-is-used-in-healthcare
+
+Database information:
+https://www.c-sharpcorner.com/article/introduction-to-databases/
